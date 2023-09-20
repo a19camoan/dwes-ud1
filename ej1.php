@@ -1,2 +1,2 @@
 <?php
-    echo ("Hola mundo");
+    echo ("<p>Hola mundo</p>");
