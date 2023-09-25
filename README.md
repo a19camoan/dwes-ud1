@@ -73,7 +73,7 @@ Resta 4. Valor ahora 6.
 Multipica por 5. Valor ahora 30.
 Divide por 3. Valor ahora 10.
 Incrementa el valor en 1. Valor ahora 11.
-Decrementa el valor en 1. Valor ahora 11.
+Decrementa el valor en 1. Valor ahora 10.
 ```
 
 [Script](./ej7.php)
