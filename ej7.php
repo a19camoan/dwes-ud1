@@ -30,4 +30,4 @@
     $variable--;
     echo "<p>Decrementa valor en 1. Valor ahora $variable</p>";
 
-    echo "<a href='https://github.com/a19camoan/dwes-ud1' target='_blank'>Repositorio</a>";
+    echo "<a href='https://github.com/a19camoan/dwes-ud2' target='_blank'>Repositorio</a>";

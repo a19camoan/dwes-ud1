@@ -19,4 +19,4 @@
     echo "<p>Longitud: $longitud</p>";
     echo "<p>Área: $area</p>";
 
-    echo "<a href='https://github.com/a19camoan/dwes-ud1' target='_blank'>Repositorio</a>";
+    echo "<a href='https://github.com/a19camoan/dwes-ud2' target='_blank'>Repositorio</a>";

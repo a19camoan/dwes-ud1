@@ -21,4 +21,4 @@
     $modulo = "DWES";
     printf("<p><b>%s</b> es un módulo de %d curso de <b>%s</b></p>", $modulo, 2, $ciclo);
 
-    echo "<a href='https://github.com/a19camoan/dwes-ud1' target='_blank'>Repositorio</a>";
+    echo "<a href='https://github.com/a19camoan/dwes-ud2' target='_blank'>Repositorio</a>";

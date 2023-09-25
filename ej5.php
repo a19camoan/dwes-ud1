@@ -11,3 +11,5 @@
     $segundo=23;
 
     echo "<p>La suma de $primer y $segundo es: " . ($primer + $segundo) . "</p>";
+
+    echo "<a href='https://github.com/a19camoan/dwes-ud2' target='_blank'>Repositorio</a>";

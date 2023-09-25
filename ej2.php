@@ -22,4 +22,4 @@
     echo "<p>Email: $email</p>";
     echo "<img src=\"https://i.pinimg.com/474x/83/39/27/833927616d89898d489796340f122d84--ris-the-photo.jpg\" alt=\"Foto de perfil\">";
 
-    echo "<a href='https://github.com/a19camoan/dwes-ud1' target='_blank'>Repositorio</a>";
+    echo "<a href='https://github.com/a19camoan/dwes-ud2' target='_blank'>Repositorio</a>";
