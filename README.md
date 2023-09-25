@@ -1,4 +1,4 @@
-# Ejercicios unidad 1
+# Ejercicios unidad 2
 
 ## Ejercicio 1
 
