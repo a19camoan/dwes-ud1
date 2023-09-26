@@ -10,7 +10,7 @@
      *  10 / 7 = 1.4285714285714
      *  10 % 7 = 3
      * 
-     * @version 1.0.0
+     * @version 1.0.1
      * @since 25-09-2023
      * @author Andrés <a19camoan@iesgrancapitan.org>
      */
@@ -18,10 +18,10 @@
     $x = 10;
     $y = 7;
 
-    echo "<p>" . "$x + $y = " . ($x + $y) . "</p>";
-    echo "<p>" . "$x - $y = " . ($x - $y) . "</p>";
-    echo "<p>" . "$x * $y = " . ($x * $y) . "</p>";
-    echo "<p>" . "$x / $y = " . ($x / $y) . "</p>";
-    echo "<p>" . "$x % $y = " . ($x % $y) . "</p>";
+    echo "<p> $x + $y = " . ($x + $y) . "</p>";
+    echo "<p> $x - $y = " . ($x - $y) . "</p>";
+    echo "<p> $x * $y = " . ($x * $y) . "</p>";
+    echo "<p> $x / $y = " . ($x / $y) . "</p>";
+    echo "<p> $x % $y = " . ($x % $y) . "</p>";
 
     echo "<a href='https://github.com/a19camoan/dwes-ud2' target='_blank'>Repositorio</a>";
