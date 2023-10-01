@@ -17,6 +17,15 @@
     $boolean = FALSE;
     $integer = 8;
     $NULL = NULL;
+
+    echo "<p>Valor es $string.</p>";
+    echo "<p>Valor es $double.</p>";
+    echo "<p>Valor es $boolean.</p>";
+    echo "<p>Valor es $integer.</p>";
+    echo "<p>Valor es $NULL.</p>";
+
+    /*
+    # Usando un bucle reccoriendo el array ahorras líneas de código.
     $variables = array(
         $string,
         $double,
@@ -25,9 +34,9 @@
         $NULL
     );
 
-    // He usado un bucle reccoriendo el array para ahorrarme líneas aunque no hallamos llegado en el temario.
     foreach ($variables as $key => $variable) {
         echo "<p>Valor es " . gettype($variable) . ".</p>";
     };
+    */
 
     echo "<a href='https://github.com/a19camoan/dwes-ud2' target='_blank'>Repositorio</a>";
